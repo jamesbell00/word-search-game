@@ -1,6 +1,6 @@
 # Word Search Game
 
-video presentation: https://sluedu-my.sharepoint.com/:v:/g/personal/james_bell_slu_edu/EUVDDkC5jh5FuFFuEijkK7UB8KgYy2foV9-N3n__tvRhPQ?e=vyihgc
+video presentation: https://www.youtube.com/watch?v=fKtJ9MVUwj8&feature=youtu.be&ab_channel=jamesb101100
 
-project report: 
+
 

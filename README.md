@@ -1,6 +1,6 @@
 # Word Search Game
 
-[Project Details](https://jamesbell34.wixsite.com/website/blank-page) ( includes report and video presentation )
+[Project Details](https://jamesbell34.wixsite.com/website/blank-page) ( includes report and video presentation ) 
 
 
 ## Details
